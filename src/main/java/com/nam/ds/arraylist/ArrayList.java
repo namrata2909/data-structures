@@ -29,4 +29,5 @@ public class ArrayList implements List {
     public int indexOf(int element) {
         return 0;
     }
+
 }

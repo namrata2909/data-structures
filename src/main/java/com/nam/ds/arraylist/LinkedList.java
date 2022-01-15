@@ -1,6 +1,7 @@
 package com.nam.ds.arraylist;
 
 public class LinkedList implements List {
+
     public void add(int element) {
 
     }
@@ -28,4 +29,5 @@ public class LinkedList implements List {
     public int indexOf(int element) {
         return 0;
     }
+
 }
